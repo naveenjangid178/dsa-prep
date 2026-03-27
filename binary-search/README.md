@@ -21,6 +21,34 @@
 
 ---
 
+### 4. Find Peak Element
+
+* 🔗 Problem: https://leetcode.com/problems/find-peak-element/description/
+* 💻 Solution: [Peak.java](./Peak.java)
+
+---
+
+### 5. Find in Mountain Array
+
+* 🔗 Problem: https://leetcode.com/problems/find-in-mountain-array/description/
+* 💻 Solution: [SearchInMountain.java](./SearchInMountain.java)
+
+---
+
+### 6. Search in Rotated Sorted Array
+
+* 🔗 Problem: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+* 💻 Solution: [RotatedSearch.java](./RotatedSearch.java)
+
+---
+
+### 7. Split Array Largest Sum
+
+* 🔗 Problem: https://leetcode.com/problems/split-array-largest-sum/
+* 💻 Solution: [SplitArray.java](./SplitArray.java)
+
+---
+
 ## 🧠 Concepts Used
 
 * Binary Search
