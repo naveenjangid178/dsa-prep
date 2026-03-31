@@ -1,5 +1,3 @@
-# 📅 Day X - DSA Practice
-
 ## 🚀 Problems Solved
 
 ### 1. Find Numbers with Even Number of Digits
