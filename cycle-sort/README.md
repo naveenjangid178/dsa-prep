@@ -21,3 +21,31 @@
 
 ---
 
+### 4. Find All Duplicates in an Array
+
+* 🔗 Problem: https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+* 💻 Solution: [FindAllDuplicates.java](./FindAllDuplicates.java)
+
+---
+
+### 5. Set Mismatch
+
+* 🔗 Problem: https://leetcode.com/problems/set-mismatch/description/
+* 💻 Solution: [SetMismatch.java](./SetMismatch.java)
+
+---
+
+### 6. First Missing Positive
+
+* 🔗 Problem: https://leetcode.com/problems/first-missing-positive/description/
+* 💻 Solution: [MissingPositive.java](./MissingPositive.java)
+
+---
+
+## 🧠 Concepts Used
+
+* Arrays
+* Index Mapping / Cyclic Sort
+* In-place Modification
+* Duplicate Detection
+* Missing Number Patterns
