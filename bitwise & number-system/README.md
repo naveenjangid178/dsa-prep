@@ -10,6 +10,21 @@
 
 ---
 
+### 3. Power of Two
+- 💻 Solution: [PowOfTwo.java](./PowOfTwo.java)
+
+---
+
+### 4. Number of Digits
+- 💻 Solution: [NoOfDigits.java](./NoOfDigits.java)
+
+---
+
+### 5. XOR of Given Range Number
+- 💻 Solution: [RangeXOR.java](./RangeXOR.java)
+
+---
+
 ## 🧠 Concepts Used
 
 - Shift Operation
