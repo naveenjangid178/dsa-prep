@@ -25,6 +25,16 @@
 
 ---
 
+### 4. Number of Digits
+- 💻 Solution: [NoOfDigits.java](./NoOfDigits.java)
+
+---
+
+### 5. Flipping an Image
+- 💻 Solution: [FlipImage.java](./FlipImage.java)
+
+---
+
 ## 🧠 Concepts Used
 
 - Shift Operation
