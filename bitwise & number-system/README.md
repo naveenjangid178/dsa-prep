@@ -25,13 +25,38 @@
 
 ---
 
-### 4. Number of Digits
+### 5. Number of Digits
 - 💻 Solution: [NoOfDigits.java](./NoOfDigits.java)
 
 ---
 
-### 5. Flipping an Image
+### 6. Flipping An Image
 - 💻 Solution: [FlipImage.java](./FlipImage.java)
+
+---
+
+### 7. Power of A Number
+- 💻 Solution: [Power.java](./Power.java)
+
+---
+
+### 8. Square Root
+- 💻 Solution: [BinarySearchSQRT.java](./BinarySearchSQRT.java)
+
+---
+
+### 9. Sieve of Eratosthenes
+- 💻 Solution: [Seive.java](./Seive.java)
+
+---
+
+### 10. Newton Raphson Method
+- 💻 Solution: [NewtonSQRT.java](./NewtonSQRT.java)
+
+---
+
+### 11. GCD & LCM
+- 💻 Solution: [GCD_LCM.java](./GCD_LCM.java)
 
 ---
 
