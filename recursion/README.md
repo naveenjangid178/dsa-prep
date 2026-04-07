@@ -37,21 +37,33 @@
 
 ---
 
-### 6. Bubble Sort
+### 7. Bubble Sort
 
 * 💻 Solution: [BubbleSort.java](./BubbleSort.java)
 
 ---
 
-### 6. Selection Sort
+### 8. Selection Sort
 
 * 💻 Solution: [SelectionSort.java](./SelectionSort.java)
 
 ---
 
-### 6. Merge Sort
+### 9. Merge Sort
 
 * 💻 Solution: [MergeSort.java](./MergeSort.java)
+
+---
+
+### 10. In-Place Merge Sort
+
+* 💻 Solution: [InPlaceMS.java](./InPlaceMS.java)
+
+---
+
+### 11. Quick Sort
+
+* 💻 Solution: [QuickSort.java](./QuickSort.java)
 
 ---
 
