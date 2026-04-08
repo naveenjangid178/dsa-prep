@@ -67,6 +67,30 @@
 
 ---
 
+### 12. String Stream
+
+* 💻 Solution: [Stream.java](./Stream.java)
+
+---
+
+### 13. Subsequence of String
+
+* 💻 Solution: [SubSeq.java](./SubSeq.java)
+
+---
+
+### 14. Ascii Value of String Subsequence
+
+* 💻 Solution: [Ascii.java](./Ascii.java)
+
+---
+
+### 15. Subset of array
+
+* 💻 Solution: [SubSet.java](./SubSet.java)
+
+---
+
 ## 🧠 Concepts Used
 
 * Digit Manipulation using Modulo (%) and Division (/)
