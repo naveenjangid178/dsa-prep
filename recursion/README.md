@@ -91,6 +91,24 @@
 
 ---
 
+### 16. Dice Sum
+
+* 💻 Solution: [Dice.java](./Dice.java)
+
+---
+
+### 17. Phone Pad
+
+* 💻 Solution: [PhonePad.java](./PhonePad.java)
+
+---
+
+### 18. Maze Problem (Skip particular path)
+
+* 💻 Solution: [Maze.java](./Maze.java)
+
+---
+
 ## 🧠 Concepts Used
 
 * Digit Manipulation using Modulo (%) and Division (/)
