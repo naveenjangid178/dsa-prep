@@ -1,14 +1,14 @@
 public class CustomLL {
     public static void main(String[] args) {
-        // LL list = new LL();
-        // list.insertFirst(3);
-        // list.insertFirst(2);
-        // list.insertFirst(8);
-        // list.insertFirst(17);
-        // list.insertLast(99);
-        // list.insert(100, 3);
+        LL list = new LL();
+        list.insertFirst(3);
+        list.insertFirst(2);
+        list.insertFirst(8);
+        list.insertFirst(17);
+        list.insertRec(100, 1);
+        list.insertLast(99);
 
-        // list.display();
+        list.display();
         
         // System.out.println(list.deleteFirst());
         // System.out.println(list.deleteLast());
@@ -25,13 +25,13 @@ public class CustomLL {
 
         // list.display();
 
-        CLL list = new CLL();
-        list.insert(23);
-        list.insert(3);
-        list.insert(19);
-        list.insert(75);
-        list.display();
-        list.delete(19);
-        list.display();
+        // CLL list = new CLL();
+        // list.insert(23);
+        // list.insert(3);
+        // list.insert(19);
+        // list.insert(75);
+        // list.display();
+        // list.delete(19);
+        // list.display();
     }
 }
